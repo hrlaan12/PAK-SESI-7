@@ -63,7 +63,7 @@ header a:hover{
 #mark{
     min-height: 400px;
     background-color:#434343;
-    background : url("https://images3.alphacoders.com/975/975999.png") no-repeat 0;
+    background : url("asset/baground.png") no-repeat 0;
     text-align: center;
     color:#ffff;
 }
